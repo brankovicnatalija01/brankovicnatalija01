@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Natalija Branković</h1>
 <p align="justify">Currently pursuing my Master’s degree at the Faculty of Organizational Sciences, University of Belgrade, where I am deepening my knowledge in software development, AI, and project management. Open to collaborations and roles where I can apply my skills and contribute to impactful projects.</p>
 
-- 📫 How to reach me **brankovicnatalija01@gmail.com**
+- 📫 How to reach me **brankovic.natalija01@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
